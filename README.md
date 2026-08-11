@@ -11,6 +11,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akash0451/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akash0451/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -60,9 +62,14 @@
 ## Greedy
 |  |
 | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash0451/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
