@@ -11,6 +11,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akash0451/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
@@ -39,6 +40,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash0451/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## String
+|  |
+| ------- |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 <!---LeetCode Topics End-->
