@@ -20,6 +20,7 @@
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akash0451/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
+| [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
