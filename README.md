@@ -14,6 +14,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1534-count-good-triplets](https://github.com/akash0451/DSA/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/akash0451/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/akash0451/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Enumeration
 |  |
 | ------- |
