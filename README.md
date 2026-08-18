@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akash0451/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/akash0451/DSA/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akash0451/DSA/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akash0451/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -94,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akash0451/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/akash0451/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Enumeration
