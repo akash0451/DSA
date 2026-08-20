@@ -22,6 +22,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akash0451/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akash0451/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
