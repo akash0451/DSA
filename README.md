@@ -81,6 +81,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akash0451/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/akash0451/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
