@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akash0451/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/akash0451/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akash0451/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Game Theory
@@ -82,6 +83,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akash0451/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2169-count-operations-to-obtain-zero](https://github.com/akash0451/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
