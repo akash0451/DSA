@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akash0451/DSA/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash0451/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -104,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
