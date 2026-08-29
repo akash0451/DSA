@@ -64,6 +64,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1859-sorting-the-sentence](https://github.com/akash0451/DSA/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
+| [1859-sorting-the-sentence](https://github.com/akash0451/DSA/tree/master/1859-sorting-the-sentence) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/akash0451/DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
