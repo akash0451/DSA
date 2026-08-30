@@ -16,6 +16,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akash0451/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akash0451/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1528-shuffle-string](https://github.com/akash0451/DSA/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/akash0451/DSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/akash0451/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
+| [1528-shuffle-string](https://github.com/akash0451/DSA/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/akash0451/DSA/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/akash0451/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
