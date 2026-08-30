@@ -35,6 +35,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0048-rotate-image](https://github.com/akash0451/DSA/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akash0451/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash0451/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/akash0451/DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +155,12 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/akash0451/DSA/tree/master/1859-sorting-the-sentence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
