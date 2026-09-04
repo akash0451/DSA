@@ -31,6 +31,7 @@
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akash0451/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/akash0451/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/akash0451/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
