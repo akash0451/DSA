@@ -69,6 +69,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akash0451/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2716-minimize-string-length](https://github.com/akash0451/DSA/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/akash0451/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
@@ -134,6 +135,7 @@
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/akash0451/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2716-minimize-string-length](https://github.com/akash0451/DSA/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
