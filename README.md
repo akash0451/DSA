@@ -139,6 +139,7 @@
 | [2716-minimize-string-length](https://github.com/akash0451/DSA/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
+| [3019-number-of-changing-keys](https://github.com/akash0451/DSA/tree/master/3019-number-of-changing-keys) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
