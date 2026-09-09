@@ -54,6 +54,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akash0451/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/akash0451/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/akash0451/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akash0451/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
