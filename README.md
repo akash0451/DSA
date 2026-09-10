@@ -108,6 +108,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
@@ -141,6 +142,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/akash0451/DSA/tree/master/3019-number-of-changing-keys) |
+| [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
@@ -168,6 +170,7 @@
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/akash0451/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 ## Bubble Sort
 |  |
 | ------- |
