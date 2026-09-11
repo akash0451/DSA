@@ -143,6 +143,7 @@
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/akash0451/DSA/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
+| [3340-check-balanced-string](https://github.com/akash0451/DSA/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
