@@ -110,6 +110,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akash0451/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/akash0451/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akash0451/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akash0451/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/akash0451/DSA/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akash0451/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Matrix
 |  |
 | ------- |
