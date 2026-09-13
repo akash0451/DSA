@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akash0451/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akash0451/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -136,6 +137,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/akash0451/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/akash0451/DSA/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akash0451/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/akash0451/DSA/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akash0451/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/akash0451/DSA/tree/master/2000-reverse-prefix-of-word) |
