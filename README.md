@@ -143,6 +143,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akash0451/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/akash0451/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akash0451/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2315-count-asterisks](https://github.com/akash0451/DSA/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/akash0451/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/akash0451/DSA/tree/master/2716-minimize-string-length) |
