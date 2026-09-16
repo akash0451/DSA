@@ -137,6 +137,7 @@
 | [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akash0451/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/akash0451/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/akash0451/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/akash0451/DSA/tree/master/1528-shuffle-string) |
@@ -203,16 +204,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
