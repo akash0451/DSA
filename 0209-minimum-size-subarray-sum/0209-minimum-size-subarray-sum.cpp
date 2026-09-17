@@ -12,9 +12,8 @@ public:
             
             while(sum>=target)
             {
-                sum-=nums[left];
                 ans=min(ans,right-left+1);
-                
+                sum-=nums[left];
                 left++;
             }
         }
