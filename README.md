@@ -55,6 +55,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash0451/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/akash0451/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2485-find-the-pivot-integer](https://github.com/akash0451/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akash0451/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/akash0451/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akash0451/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash0451/DSA/tree/master/0238-product-of-array-except-self) |
+| [2485-find-the-pivot-integer](https://github.com/akash0451/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/akash0451/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String Matching
 |  |
