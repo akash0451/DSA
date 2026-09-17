@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akash0451/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/akash0451/DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash0451/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/akash0451/DSA/tree/master/0485-max-consecutive-ones) |
@@ -99,6 +100,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akash0451/DSA/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/akash0451/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash0451/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
