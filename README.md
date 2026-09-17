@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akash0451/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash0451/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/akash0451/DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akash0451/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akash0451/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
@@ -200,6 +202,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash0451/DSA/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/akash0451/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String Matching
@@ -222,4 +225,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
