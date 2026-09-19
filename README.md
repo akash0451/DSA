@@ -27,6 +27,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/akash0451/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/akash0451/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akash0451/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -209,6 +210,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash0451/DSA/tree/master/0238-product-of-array-except-self) |
 | [2485-find-the-pivot-integer](https://github.com/akash0451/DSA/tree/master/2485-find-the-pivot-integer) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/akash0451/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/akash0451/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/akash0451/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String Matching
