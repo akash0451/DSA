@@ -7,8 +7,8 @@ public:
             int sum=0;
             while(nums[i])
             {
-               int r=nums[i]%10;
-               sum+=r;
+               
+               sum+=nums[i]%10;
                nums[i]/=10;
             }
             if(sum==i)
