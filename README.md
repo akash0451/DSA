@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/akash0451/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
 ## Math
@@ -53,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akash0451/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akash0451/DSA/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/akash0451/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/akash0451/DSA/tree/master/1025-divisor-game) |
@@ -250,4 +252,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akash0451/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akash0451/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akash0451/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
