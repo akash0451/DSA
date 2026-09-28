@@ -172,6 +172,7 @@
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/akash0451/DSA/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
+| [3210-find-the-encrypted-string](https://github.com/akash0451/DSA/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/akash0451/DSA/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akash0451/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akash0451/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
