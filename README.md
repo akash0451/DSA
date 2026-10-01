@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akash0451/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akash0451/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -207,6 +208,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/akash0451/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash0451/DSA/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -275,6 +277,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
