@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/akash0451/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
@@ -158,6 +159,7 @@
 | [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash0451/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akash0451/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 | [0917-reverse-only-letters](https://github.com/akash0451/DSA/tree/master/0917-reverse-only-letters) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/akash0451/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash0451/DSA/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -279,6 +282,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
