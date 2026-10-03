@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/akash0451/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/akash0451/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/akash0451/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/akash0451/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash0451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akash0451/DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akash0451/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akash0451/DSA/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/akash0451/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash0451/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -292,4 +294,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/akash0451/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
