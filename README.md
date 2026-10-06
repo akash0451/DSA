@@ -137,6 +137,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash0451/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
@@ -165,6 +166,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/akash0451/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/akash0451/DSA/tree/master/0686-repeated-string-match) |
 | [0917-reverse-only-letters](https://github.com/akash0451/DSA/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash0451/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/akash0451/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/akash0451/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/akash0451/DSA/tree/master/1528-shuffle-string) |
@@ -216,6 +218,7 @@
 | [0032-longest-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/akash0451/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash0451/DSA/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash0451/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/akash0451/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -285,6 +288,7 @@
 | [0020-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akash0451/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akash0451/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash0451/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
