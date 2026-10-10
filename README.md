@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/akash0451/DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash0451/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akash0451/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/akash0451/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/akash0451/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash0451/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/akash0451/DSA/tree/master/0877-stone-game) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash0451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash0451/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/akash0451/DSA/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/akash0451/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/akash0451/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/akash0451/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
