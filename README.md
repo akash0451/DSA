@@ -36,6 +36,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/akash0451/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akash0451/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akash0451/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akash0451/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/akash0451/DSA/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akash0451/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/akash0451/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
