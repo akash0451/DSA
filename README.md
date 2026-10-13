@@ -115,6 +115,7 @@
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/akash0451/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash0451/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/akash0451/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akash0451/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash0451/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/akash0451/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/akash0451/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/akash0451/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/akash0451/DSA/tree/master/2706-buy-two-chocolates) |
@@ -178,6 +180,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash0451/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akash0451/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/akash0451/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/akash0451/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/akash0451/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/akash0451/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash0451/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
