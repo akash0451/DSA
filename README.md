@@ -140,6 +140,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/akash0451/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/akash0451/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akash0451/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akash0451/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -198,6 +199,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/akash0451/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/akash0451/DSA/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/akash0451/DSA/tree/master/3019-number-of-changing-keys) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/akash0451/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/akash0451/DSA/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/akash0451/DSA/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/akash0451/DSA/tree/master/3340-check-balanced-string) |
