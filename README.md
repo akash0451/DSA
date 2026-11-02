@@ -41,6 +41,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akash0451/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akash0451/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/akash0451/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akash0451/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/akash0451/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akash0451/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -76,6 +77,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/akash0451/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akash0451/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/akash0451/DSA/tree/master/2485-find-the-pivot-integer) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/akash0451/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akash0451/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akash0451/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akash0451/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
