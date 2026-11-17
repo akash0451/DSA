@@ -42,6 +42,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akash0451/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash0451/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/akash0451/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3151-special-array-i](https://github.com/akash0451/DSA/tree/master/3151-special-array-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akash0451/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/akash0451/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akash0451/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
